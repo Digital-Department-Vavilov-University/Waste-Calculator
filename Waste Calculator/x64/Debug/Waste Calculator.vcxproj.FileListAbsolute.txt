@@ -1,0 +1,4 @@
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\x64\Debug\Waste Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\x64\Debug\WasteCalculator.Company.resources
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\x64\Debug\Waste Calculator.vcxproj.GenerateResource.cache
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\x64\Debug\WasteCalculator.StartMenu.resources

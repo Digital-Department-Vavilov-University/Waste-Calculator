@@ -1,0 +1,66 @@
+  WasteCalculator.Company.resources - Embedded, ContainedInManifestFile, 
+  WasteCalculator.StartMenu.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Waste Calculator, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class WasteCalculator.WasteData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Single resultCalculate : Public
+    Int32 formula : Public
+    System.Collections.Generic.List`1[System.Tuple`2[System.String,System.Single]] listResult : Public
+    System.String name : Public
+    System.String code : Public
+    System.String klass : Public
+  Methods:
+    Select40611001313(): PrivateScope, Public, HideBySig
+    Select40612001313(): PrivateScope, Public, HideBySig
+    Select40613001313(): PrivateScope, Public, HideBySig
+    Select40615001313(): PrivateScope, Public, HideBySig
+    Select40616601313(): PrivateScope, Public, HideBySig
+    Select43811101513(): PrivateScope, Public, HideBySig
+    Select43811102514(): PrivateScope, Public, HideBySig
+    Select46120001515(): PrivateScope, Public, HideBySig
+    Select46211001513(): PrivateScope, Public, HideBySig
+    Select46220002515(): PrivateScope, Public, HideBySig
+    Select47110101521(): PrivateScope, Public, HideBySig
+    Select48241100525(): PrivateScope, Public, HideBySig
+    Select48120301523(): PrivateScope, Public, HideBySig
+    Select73310001724(): PrivateScope, Public, HideBySig
+    Select73610001305(): PrivateScope, Public, HideBySig
+    Select92011001532(): PrivateScope, Public, HideBySig
+    Select92021001102(): PrivateScope, Public, HideBySig
+    Select92031001525(): PrivateScope, Public, HideBySig
+    Select92130201523(): PrivateScope, Public, HideBySig
+    Select91920101393(): PrivateScope, Public, HideBySig
+    Select91920102394(): PrivateScope, Public, HideBySig
+    Select91910002204(): PrivateScope, Public, HideBySig
+    Select91910001205(): PrivateScope, Public, HideBySig
+    Select91920401603(): PrivateScope, Public, HideBySig
+    Select91920402604(): PrivateScope, Public, HideBySig
+    SelectWaste(String): PrivateScope, Public, HideBySig
+    GetName(): PrivateScope, Public, HideBySig
+    GetCode(): PrivateScope, Public, HideBySig
+    GetKlass(): PrivateScope, Public, HideBySig
+    GetItem(Int32, Int32): PrivateScope, Public, HideBySig
+    GetItemCount(): PrivateScope, Public, HideBySig
+    Formula(List`1): PrivateScope, Public, HideBySig
+    CalculateResults(DataGridView, String): PrivateScope, Public, HideBySig
+Class WasteCalculator.Company: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, Boolean, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class WasteCalculator.StartMenu: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

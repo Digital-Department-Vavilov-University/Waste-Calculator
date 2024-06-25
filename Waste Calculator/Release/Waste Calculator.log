@@ -1,0 +1,35 @@
+﻿  Company.cpp
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(954,73): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Company.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(1021,68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Company.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(1031,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Company.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(2213,22): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "Company.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(2416,22): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "Company.cpp")
+  
+  StartMenu.cpp
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(954,73): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "StartMenu.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(1021,68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "StartMenu.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(1031,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "StartMenu.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(2213,22): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "StartMenu.cpp")
+  
+C:\Users\Андрей\Documents\C++ Project\Waste Calculator\Waste Calculator\Company.h(2416,22): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "StartMenu.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+LINK : fatal error LNK1104: не удается открыть файл "Aspose.Words.Cpp_vc14x86d.lib"
